@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>hand-holding-pen-human-isolated-white-background-35015953.jpg</filename>
+	<path>F:\Python_V_Env\Project_1\uni\windows_v1.8.0\windows_v1.8.0\img\hand-holding-pen-human-isolated-white-background-35015953.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>927</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>150</ymin>
+			<xmax>691</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

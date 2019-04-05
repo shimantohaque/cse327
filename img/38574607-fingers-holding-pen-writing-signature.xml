@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>38574607-fingers-holding-pen-writing-signature.jpg</filename>
+	<path>F:\Python_V_Env\Project_1\uni\windows_v1.8.0\windows_v1.8.0\img\38574607-fingers-holding-pen-writing-signature.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>163</ymin>
+			<xmax>1263</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+</annotation>

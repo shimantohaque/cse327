@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>hand-holding-pen-writing-front-view-stock-illustration_csp33521065.jpg</filename>
+	<path>F:\Python_V_Env\Project_1\uni\windows_v1.8.0\windows_v1.8.0\img\hand-holding-pen-writing-front-view-stock-illustration_csp33521065.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>145</ymin>
+			<xmax>435</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

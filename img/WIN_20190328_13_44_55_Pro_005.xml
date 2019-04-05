@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>WIN_20190328_13_44_55_Pro_005.jpg</filename>
+	<path>F:\Python_V_Env\Project_1\uni\windows_v1.8.0\windows_v1.8.0\img\WIN_20190328_13_44_55_Pro_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>162</ymin>
+			<xmax>537</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
